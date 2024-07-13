@@ -1,7 +1,7 @@
 
 ## Cyber Threat Monitoring System
 
-This notebook contains the complete code for the Cyber Threat Monitoring System of the Hong Kong Corporate Cybersecurity Platform. The system is designed to keep the threat database current by periodically scraping tweets from the Twitter (now X.com) profile of DeXpose (@dexpose_io2). This enables the platform to gather real-time data on recent vulnerabilities and cyber-attacks, ensuring timely and accurate cybersecurity insights for users.
+This notebook contains the complete code for the Cyber Threat Monitoring System of the Hong Kong Corporate Cybersecurity Platform. The system is designed to keep the threat database current by scraping tweets from the Twitter (now X.com) profile of DeXpose (@dexpose_io2). This enables the platform to gather real-time data on recent vulnerabilities and cyber-attacks, ensuring timely and accurate cybersecurity insights for users.
 
 ### Environment
 - Python 3.10.14
